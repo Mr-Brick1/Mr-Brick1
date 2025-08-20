@@ -35,6 +35,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&style=for-the-badge)
 ![JDBC](https://img.shields.io/badge/JDBC-orange?style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-blue?style=for-the-badge)
+![Mockoto](https://img.shields.io/badge/Mockito-green?style=for-the-badge&logoColor=black&labelColor=black)
 
 ### 📊 Activity on GitHub
 
