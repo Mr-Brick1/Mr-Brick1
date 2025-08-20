@@ -24,9 +24,9 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate)
 
 **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-blue&logoColor=white)
 
 **Tools:**  
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven)
