@@ -34,6 +34,15 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&style=for-the-badge)
 
+### 📊 Activity on GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=default&hide_title=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=default" alt="Top Languages"/>
+</p>
+
+
+
 <!--
 **Mr-Brick1/Mr-Brick1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
