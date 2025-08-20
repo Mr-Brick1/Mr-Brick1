@@ -2,8 +2,7 @@
 
 ### Java Developer
 
-<p style="text-align: center;">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram)
-![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)</p>
+<center> **![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram) ![Email](https://img.shields.io/badge/Email-D14836?logo=gmail) **</center>
 ___
 
 ### 🛠️ Технологии и навыки
