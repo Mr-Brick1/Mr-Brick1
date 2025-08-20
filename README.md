@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there! I am a software developer of computer systems and networks. </h1>
+<h1 align="center"> Hi there! I'm Max. </h1>
 
 <h2 align="center"> Java Developer </h1>
 <p align="center">
