@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi! I'm Maxim.
+
+### Java Developer
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram)]
 
 <!--
 **Mr-Brick1/Mr-Brick1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
