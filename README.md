@@ -26,7 +26,7 @@
 **Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-blue&style=for-the-badge)
+![SQLite]([https://img.shields.io/badge/SQLite-blue](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white))
 
 **Tools:**  
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&style=for-the-badge)
