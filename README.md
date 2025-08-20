@@ -31,7 +31,7 @@
 **Tools:**  
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea)
 
 <!--
