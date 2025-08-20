@@ -28,6 +28,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-blue)
 
+**Tools:**  
+![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea)
+
 <!--
 **Mr-Brick1/Mr-Brick1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
