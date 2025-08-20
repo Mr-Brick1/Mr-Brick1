@@ -5,7 +5,7 @@
   <a href="https://t.me/Mr_Brik">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="maksimbrikun@gmail.com">
+  <a href="mailto:maksimbrikun@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="Email"/>
   </a> 
 </p>
