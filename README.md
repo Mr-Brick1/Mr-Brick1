@@ -1,8 +1,6 @@
-# Hi! I'm Maxim.
+<h1 align="center"> Hi! I'm Maxim. </h1>
 
-### Java Developer
-
-<h1 align="center"> 📫 Как связаться </h1>
+<h2 align="center"> Java Developer </h1>
 <p align="center">
   <a href="https://t.me/your_username">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -14,7 +12,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
+ 📫
 ___
 
 ### 🛠️ Технологии и навыки
