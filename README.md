@@ -2,7 +2,8 @@
 
 <h2 align="center"> Java Developer </h1>
 <p align="center">
-  <a href="https://t.me/your_username">📫
+  <a href="https://t.me/your_username">
+    <h3 align="center">📫</h3>
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="mailto:your.email@example.com">
