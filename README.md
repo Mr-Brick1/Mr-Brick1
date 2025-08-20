@@ -38,7 +38,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-Brick1&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Brick1&layout=compact&theme=night" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Brick1&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 
