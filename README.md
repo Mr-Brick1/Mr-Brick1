@@ -8,12 +8,13 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a>
+  
+</p>
+<p align="center">
+<a>
   <img src="https://komarev.com/ghpvc/?username=Mr-Brick1&style=flat-square&color=blue" alt="Profile Views"/>
   </a>
 </p>
-
-
 
 ### 🛠️ Технологии и навыки
 
