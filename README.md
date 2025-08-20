@@ -12,7 +12,7 @@
 </p>
 <p align="center">
 <a>
-  <img src="https://komarev.com/ghpvc/?username=Mr-Brick1&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mr-Brick1&style=flat-square&color=blue" style="for-the-badge" alt="Profile Views"/>
   </a>
 </p>
 
