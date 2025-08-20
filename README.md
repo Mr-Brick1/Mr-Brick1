@@ -8,22 +8,22 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="Email"/>
   </a> 
+</p>
+
   <p align="center">
   <a>
 <img src="https://komarev.com/ghpvc/?username=Mr-Brick1&style=flat-square&color=blue&style=for-the-badge"  alt="Profile Views"/>
   </a>
 </p>
-</p>
 
-
-### 🛠️ Технологии и навыки
+### 🛠️ Technology & Skills
 
 **Backend:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate)
 
-**Базы данных:**  
+**Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-blue)
