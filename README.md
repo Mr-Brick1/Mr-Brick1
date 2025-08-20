@@ -39,13 +39,14 @@
 ![Mockoto](https://img.shields.io/badge/Mockito-green?style=for-the-badge&logoColor=black&labelColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&style=for-the-badge)
 
-### 📊 Activity on GitHub
+<!--### 📊 Activity on GitHub
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-Brick1&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Brick1&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
-
+-->
 
 ### CodeWars
 
