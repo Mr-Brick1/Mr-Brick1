@@ -30,13 +30,13 @@
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white&style=for-the-badge)
 
 **Tools:**  
-![JDBC](https://img.shields.io/badge/JDBC-orange?logo=JDBC&logoColor=white&style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-orange?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/Gradle-blue?logo=Gradle&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-blue?logo=JUnit5&logoColor=white&style=for-the-badge)
-![Mockoto](https://img.shields.io/badge/Mockito-green?logo=mockito&logoColor=white&style=for-the-badge&logoColor=black&labelColor=black)
+![Mockoto](https://img.shields.io/badge/Mockito-green?style=for-the-badge&logoColor=black&labelColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&style=for-the-badge)
 
 <!--### 📊 Activity on GitHub
