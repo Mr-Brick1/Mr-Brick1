@@ -21,13 +21,13 @@
 **Backend:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&style=for-the-badge)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?logo=spring&logoColor=white&style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23BCAE79?logo=hibernate&style=for-the-badge)
 
 **Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 
 **Tools:**  
 ![JDBC](https://img.shields.io/badge/JDBC-orange?style=for-the-badge)
