@@ -33,7 +33,7 @@
 ![JDBC](https://img.shields.io/badge/JDBC-%23D62C2C?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36?logo=apache-maven&style=for-the-badge)
-![Gradle](https://img.shields.io/badge/Gradle-%2302303A??logo=Gradle&logoColor=white&style=for-the-badge)
+![Gradle](https://img.shields.io/badge/Gradle-%2302303A??logo=#02303A&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/JUnit-%2325A162?logo=JUnit5&logoColor=white&style=for-the-badge)
 ![Mockoto](https://img.shields.io/badge/Mockito-%2300C4CC?style=for-the-badge&logoColor=black&labelColor=black)
