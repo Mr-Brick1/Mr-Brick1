@@ -35,7 +35,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apache-maven&style=for-the-badge)
 ![Gradle](https://img.shields.io/badge/Gradle-blue?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-blue?style=for-the-badge)
+![JUnit](https://img.shields.io/badge/JUnit-blue?logo=JUnit&logoColor=white&style=for-the-badge)
 ![Mockoto](https://img.shields.io/badge/Mockito-green?style=for-the-badge&logoColor=black&labelColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&style=for-the-badge)
 
