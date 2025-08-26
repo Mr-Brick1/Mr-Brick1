@@ -19,7 +19,7 @@
 ### 🛠️ Technology & Skills
 
 **Backend:**  
-![Java](https://img.shields.io/badge/Java-#007396?logo=openjdk&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-%23007396??logo=openjdk&logoColor=white&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&style=for-the-badge)
