@@ -16,6 +16,9 @@
   </a>
 </p>
 
+👩‍💻 About Me :
+ - I am a Java Developer
+
 ### 🛠️ Technology & Skills
 
 **Backend:**  
