@@ -17,7 +17,7 @@
 </p>
 
 👩‍💻 About Me :
- I am a Java Developer
+I am a Java Developer
  - ⚡ In my free time, I solve problems on Leetcode and read tech articles.
 
 ### 🛠️ Technology & Skills
