@@ -18,7 +18,7 @@
 
 About Me :
 * 👩‍💻 I am a Java Developer
-* ⚡ In my free time, I solve problems on Leetcode and read tech articles.
+* ⚡ In my free time, I solve problems on CodeWars and read tech articles.
 
 ### 🛠️ Technology & Skills
 
