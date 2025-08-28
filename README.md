@@ -17,8 +17,8 @@
 </p>
 
 About Me :
-* 👩‍💻 I am a Java Developer
-* ⚡ In my free time, I solve problems on CodeWars and read tech articles.
+* 👩‍💻 I am a Java Developer!
+* ⚡ In my free time, I solve problems on CodeWars and read tech articles!
 
 ### 🛠️ Technology & Skills
 
