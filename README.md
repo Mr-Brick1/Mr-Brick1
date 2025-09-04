@@ -18,7 +18,7 @@
 
 About Me :
 * 👩‍💻 I am a Junior Java Developer!
-* ⚡ In my free time, I solve problems on CodeWars and read tech articles!!
+* ⚡ In my free time, I solve problems on CodeWars and read tech articles!
 
 ### 🛠️ Technology & Skills
 
