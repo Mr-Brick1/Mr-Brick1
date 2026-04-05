@@ -17,7 +17,7 @@
 </p>
 
 About Me :
-* 👩‍💻 I am a Junior Java Developer!
+* 👩‍💻 I am a Junior Java / Mobile(Android) Developer!
 * ⚡ In my free time, I solve problems on CodeWars and read tech articles!!
 
 ### 🛠️ Technology & Skills
