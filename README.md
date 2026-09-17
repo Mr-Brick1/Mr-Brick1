@@ -17,7 +17,8 @@
 </p>
 
 About Me :
-* 👩‍💻 I am a Junior Java / Mobile(Android) Developer!
+* 👩‍💻 I am a Android Developer!
+* 📫 Also I know C++, Java, C#, Python, JavaScript and discover other languages and technologies! 
 * ⚡ In my free time, I solve problems on CodeWars and read tech articles!!
 
 ### 🛠️ Technology & Skills
